@@ -1,11 +1,38 @@
 .App {
     --header_height: 60px;
+    margin: 130px 70px;
 }
 
 .hw {
+    position: relative;
+}
+
+.hw::after{
+    content: '';
+    display: block;
+    width: 100vw;
+    border-bottom: 2px solid #D9D9D9;
+    left: -70px;
+    right: 0;
+    position: absolute;
+    margin-top: 10px;
+}
+
+
+.hwTitle {
+    margin-top: 40px;
+    font-weight: 600;
+    font-size: 22px;
 
 }
 
-.hwTitle {
-
+.hwTitle::after{
+    content: '';
+    display: block;
+    width: 100vw;
+    border-bottom: 2px solid #D9D9D9;
+    left: 0;
+    right: 0;
+    position: absolute;
+    margin-top: 10px;
 }
