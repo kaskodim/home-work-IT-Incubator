@@ -1,6 +1,5 @@
 .App {
-    --header_height: 60px;
-    margin: 130px 70px;
+    padding: 60px 70px;
 }
 
 .hw {
@@ -8,7 +7,7 @@
     position: relative;
 }
 
-.hw::after{
+.hw::after {
     content: '';
     display: block;
     width: 100vw;
@@ -27,7 +26,7 @@
 
 }
 
-.hwTitle::after{
+.hwTitle::after {
     content: '';
     display: block;
     width: 100vw;
