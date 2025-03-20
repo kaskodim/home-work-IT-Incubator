@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/home-work-IT-Incubator/static/css/main.4725a0e6.css",
-    "main.js": "/home-work-IT-Incubator/static/js/main.29a363dc.js",
+    "main.css": "/home-work-IT-Incubator/static/css/main.8bf2521f.css",
+    "main.js": "/home-work-IT-Incubator/static/js/main.07a5d5ea.js",
     "static/js/787.66cb4309.chunk.js": "/home-work-IT-Incubator/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/home-work-IT-Incubator/static/media/avatar.d947cb9d0d13765666b6.png",
     "static/media/404.svg": "/home-work-IT-Incubator/static/media/404.dae7af4892f2a3abe805a174178919f2.svg",
     "static/media/closeOutline.svg": "/home-work-IT-Incubator/static/media/closeOutline.91a6693133923612a0702421ab3e9923.svg",
+    "static/media/editIcon.svg": "/home-work-IT-Incubator/static/media/editIcon.11c8e1c42f9a4eae81897d68e091eb42.svg",
     "index.html": "/home-work-IT-Incubator/index.html",
     "static/media/checked.svg": "/home-work-IT-Incubator/static/media/checked.0b6a1bcf5d417ff0a947.svg",
     "static/media/burger.svg": "/home-work-IT-Incubator/static/media/burger.e4e6b98e4ee0b2dfcd76d02a9eed2e34.svg",
-    "main.4725a0e6.css.map": "/home-work-IT-Incubator/static/css/main.4725a0e6.css.map",
-    "main.29a363dc.js.map": "/home-work-IT-Incubator/static/js/main.29a363dc.js.map",
+    "main.8bf2521f.css.map": "/home-work-IT-Incubator/static/css/main.8bf2521f.css.map",
+    "main.07a5d5ea.js.map": "/home-work-IT-Incubator/static/js/main.07a5d5ea.js.map",
     "787.66cb4309.chunk.js.map": "/home-work-IT-Incubator/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4725a0e6.css",
-    "static/js/main.29a363dc.js"
+    "static/css/main.8bf2521f.css",
+    "static/js/main.07a5d5ea.js"
   ]
 }
