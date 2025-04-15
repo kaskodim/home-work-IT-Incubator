@@ -21,7 +21,7 @@ const initialPeople: UserType[] = [
     // студенты могут поменять имя/возраст/количество объектов, _id должны быть целочисленные
     {_id: 0, name: 'Кот', age: 3},
     {_id: 1, name: 'Александр', age: 66},
-    {_id: 2, name: 'Коля', age: 16},
+    {_id: 2, name: 'Коля', age: 18},
     {_id: 3, name: 'Виктор', age: 44},
     {_id: 4, name: 'Дмитрий', age: 40},
     {_id: 5, name: 'Ирина', age: 55},
@@ -84,7 +84,7 @@ const HW8 = () => {
 
                     <table id={'hw8-users'} className={s.users}>
                         <thead className={s.thead}>
-                        <tr>
+                        <tr className={s.tr}>
                             <td className={s.nameCol}>Name</td>
                             <td className={s.ageCol}>Age</td>
                         </tr>

@@ -1,5 +1,8 @@
 .button {
-    width: 132px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px 24px;
     height: 30px;
     border-radius: 3px;
     background: #0066CC;
@@ -14,10 +17,10 @@
 }
 
 .secondary {
-    width: 176px;
+
     background: white;
-    color:  #0066CC;
-    border: 1px solid  #0066CC;
+    color: #0066CC;
+    border: 1px solid #0066CC;
 
 }
 

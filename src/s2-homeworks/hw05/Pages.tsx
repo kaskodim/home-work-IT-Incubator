@@ -11,7 +11,7 @@ export const PATH = {
     JUNIOR_PLUS: '/junior-plus',
 }
 
-function Pages() {
+function  Pages() {
     return (
         <div>
             {/*Routes выбирает первый подходящий роут*/}
