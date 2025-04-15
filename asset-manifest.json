@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/home-work-IT-Incubator/static/css/main.c2d2d6e6.css",
-    "main.js": "/home-work-IT-Incubator/static/js/main.660be434.js",
+    "main.css": "/home-work-IT-Incubator/static/css/main.4a3b2ebf.css",
+    "main.js": "/home-work-IT-Incubator/static/js/main.08411dcf.js",
     "static/js/787.66cb4309.chunk.js": "/home-work-IT-Incubator/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/home-work-IT-Incubator/static/media/avatar.d947cb9d0d13765666b6.png",
     "static/media/404.svg": "/home-work-IT-Incubator/static/media/404.dae7af4892f2a3abe805a174178919f2.svg",
@@ -10,12 +10,12 @@
     "index.html": "/home-work-IT-Incubator/index.html",
     "static/media/checked.svg": "/home-work-IT-Incubator/static/media/checked.0b6a1bcf5d417ff0a947.svg",
     "static/media/burger.svg": "/home-work-IT-Incubator/static/media/burger.e4e6b98e4ee0b2dfcd76d02a9eed2e34.svg",
-    "main.c2d2d6e6.css.map": "/home-work-IT-Incubator/static/css/main.c2d2d6e6.css.map",
-    "main.660be434.js.map": "/home-work-IT-Incubator/static/js/main.660be434.js.map",
+    "main.4a3b2ebf.css.map": "/home-work-IT-Incubator/static/css/main.4a3b2ebf.css.map",
+    "main.08411dcf.js.map": "/home-work-IT-Incubator/static/js/main.08411dcf.js.map",
     "787.66cb4309.chunk.js.map": "/home-work-IT-Incubator/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c2d2d6e6.css",
-    "static/js/main.660be434.js"
+    "static/css/main.4a3b2ebf.css",
+    "static/js/main.08411dcf.js"
   ]
 }
