@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/home-work-IT-Incubator/static/css/main.d26c2f65.css",
-    "main.js": "/home-work-IT-Incubator/static/js/main.dde14725.js",
+    "main.js": "/home-work-IT-Incubator/static/js/main.40c77224.js",
     "static/js/787.66cb4309.chunk.js": "/home-work-IT-Incubator/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/home-work-IT-Incubator/static/media/avatar.d947cb9d0d13765666b6.png",
     "static/media/200.svg": "/home-work-IT-Incubator/static/media/200.2b4de1542921864a6ecb8c3301ea4670.svg",
@@ -15,11 +15,11 @@
     "static/media/checked.svg": "/home-work-IT-Incubator/static/media/checked.0b6a1bcf5d417ff0a947.svg",
     "static/media/burger.svg": "/home-work-IT-Incubator/static/media/burger.e4e6b98e4ee0b2dfcd76d02a9eed2e34.svg",
     "main.d26c2f65.css.map": "/home-work-IT-Incubator/static/css/main.d26c2f65.css.map",
-    "main.dde14725.js.map": "/home-work-IT-Incubator/static/js/main.dde14725.js.map",
+    "main.40c77224.js.map": "/home-work-IT-Incubator/static/js/main.40c77224.js.map",
     "787.66cb4309.chunk.js.map": "/home-work-IT-Incubator/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d26c2f65.css",
-    "static/js/main.dde14725.js"
+    "static/js/main.40c77224.js"
   ]
 }
