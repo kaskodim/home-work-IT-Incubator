@@ -1,7 +1,12 @@
 .tech {
-
+    display: flex;
 }
 
 .loading {
+    display: flex;
+    justify-content: end;
+}
 
+.wrapper {
+    width: 486px;
 }
