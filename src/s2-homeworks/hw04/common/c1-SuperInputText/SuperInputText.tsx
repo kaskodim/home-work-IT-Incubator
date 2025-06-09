@@ -60,6 +60,7 @@ const SuperInputText: React.FC<SuperInputTextPropsType> = (
     return (
         <div className={s.inputWrapper}>
 
+
               <span
                   id={id ? id + '-span' : undefined}
                   className={finalSpanClassName}
