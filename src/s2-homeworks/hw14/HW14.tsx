@@ -50,14 +50,6 @@ const HW14 = () => {
     const onChangeText = (value: string) => {
         setFind(value)
         setSearchParams(value)
-
-        console.log(value)
-        // делает студент
-
-        // добавить/заменить значение в квери урла
-        // setSearchParams(
-
-        //
     }
 
     useEffect(() => {
